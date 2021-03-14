@@ -1,0 +1,33 @@
+@charset "utf-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+/* dark: #731a1a
+lessdark: #8c1c1c
+lesslessdark: #8c3e3e
+light: d9bdba
+lightest: a67272
+*/
+.logo {
+	background: #8c3e3e;
+}
+.logo img{
+	height: 200px;
+	width: 400px;
+}
+
+.nav-link {
+	color: #731a1a;
+}
+
+.nav-link:hover {
+	color: #d9bdba;
+}
+#footer	{
+    color: #a67272;
+    background-color: #8c3e3e;
+    text-align: center;
+    width: auto;
+    height: 2cm;
+	margin-top: 50px;
+	margin-bottom: auto;
+    padding: 7.5mm 0mm 0mm 0mm;
+}
