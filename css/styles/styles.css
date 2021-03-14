@@ -34,14 +34,14 @@ h1, h2, h3, h6, a {
 	margin-top: 20px;
 }
 .products {
-		text-allign: center;
+		text-align: center;
 }
 
 .content-shop img {
 	height: 350px;
 	width: 350px;
 	margin: auto;
-	patting-left: 20px;
+	padding-left: 20px;
 }
 .content-shop {
 	text-align: center
