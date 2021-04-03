@@ -1,4 +1,5 @@
 @charset "utf-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 /* dark: #731a1a
 lessdark: #8c1c1c
 lesslessdark: #8c3e3e
@@ -6,13 +7,21 @@ light: d9bdba
 lightest: a67272
 */
 body {
-	margin: 0; padding: 0; border: 0; font-size: 100%;
 	font-family: 'Archivo', sans-serif;
 	font-weight: normal;
 }
 h1, h2, h3, h6, a {
 	font-family: 'Archivo', sans-serif;
 	font-weight: bold;
+}
+.font {
+	font-family: 'Archivo', sans-serif;
+	font-weight: bold;
+}
+
+.col-lg-8 {
+	 background-color:#D9BDBA;
+	
 }
 .logo {
 	background: #8c3e3e;
@@ -49,16 +58,8 @@ h1, h2, h3, h6, a {
 .textpage1 {
 	text-align: justify;
 	color: #8c1c1c;
-	padding-right: 130px;
-	padding-top: 50px;
-	
-}
-
-
-
-.img-fluid1 {
-	padding-top: 50px;
-	padding-left: 10px;
+	padding-right: 210px;
+	margin-top: 60px;
 }
 #footer	{
     color: #a67272;
