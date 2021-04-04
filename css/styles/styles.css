@@ -25,6 +25,18 @@ h1, h2, h3, h6, a {
 .nav-link {
 	color: #731a1a;
 }
+.backgroundimage {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-top: 20;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 .nav-link:hover {
 	color: #d9bdba;
@@ -49,7 +61,7 @@ h1, h2, h3, h6, a {
 .textpage1 {
 	text-align: justify;
 	color: #8c1c1c;
-	padding-right: 210px;
+	padding-right: 100px;
 	margin-top: 60px;
 }
 .textpage2 {
@@ -62,7 +74,17 @@ h1, h2, h3, h6, a {
 .img-fluid2 {
 	padding-top: 50px;
 	padding-left: 50px;
+	
 }
+.textpage3 {
+	text-align: center
+		
+}
+.textcolor1 {
+	color: #731a1a;
+}
+
+
 .img-fluid3 {
 	padding-top: 50px;
 	padding-left: 50px;
@@ -85,4 +107,26 @@ h3 {
 
 .img-fluid1 {
 	padding-top: 60px;
+}
+
+
+
+.textcolor2 {
+	text-decoration-color: #8c1c1c
+}
+
+.textcolor3 {
+	color: #8c3e3e
+}
+
+.textcolor4 {
+	color: #d9bdba;
+}
+
+.textcolor5 {
+	color: #a67272
+}
+
+.textcolor6 {
+	color:#000000;
 }
