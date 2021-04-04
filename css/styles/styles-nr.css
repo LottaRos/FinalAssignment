@@ -29,5 +29,25 @@ lightest: a67272
     height: 2cm;
 	margin-top: 50px;
 	margin-bottom: auto;
-    padding: 7.5mm 0mm 0mm 0mm;
+    padding: 7.5mm 0mm 0mm 0mm;	
+}
+
+.shopimg {
+	padding-top: 25px;
+	
+}
+.buttoncolor {
+	background-color: #8c1c1c;
+	color: white;
+}
+
+
+.headersred {
+	color: #8c1c1c;
+	margin-top: 20px;
+}
+
+
+.backgroundcolor {
+	 background-color:#D9BDBA;
 }
